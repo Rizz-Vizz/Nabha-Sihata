@@ -45,6 +45,9 @@ A unique, blockchain-inspired loyalty program to drive community engagement. Use
 ### 🔔 Automated Alerts & Community Awareness
 Timely SMS and push notifications for upcoming appointments, medication schedules, and localized community awareness messages for early disease prevention.
 
+[![Nabha Sihata Demo](https://img.youtube.com/vi/cC9UvJ_iXv0/maxresdefault.jpg)](https://www.youtube.com/watch?v=cC9UvJ_iXv0)
+
+
 ---
 
 ## 🛠️ Technical Stack
@@ -60,6 +63,9 @@ Our architecture is built to be robust, secure, and scalable to support millions
 - **Notifications:** Firebase Cloud Messaging, Twilio
 - **Security:** JWT Authentication, HTTPS encryption
 - **Deployment:** Docker, Kubernetes, AWS/GCP
+
+  <img width="1192" height="1001" alt="image" src="https://github.com/user-attachments/assets/2932a4e5-088c-4d70-b63a-ff85eb65b6a1" />
+
 
 ---
 
@@ -109,9 +115,13 @@ npm run build
 * **Accessibility:** Drastically reduces travel costs and waiting times, preventing wage loss due to long medical travels.
 * **Early Diagnosis:** Proactive healthcare tools reduce the risk of serious illnesses and empower families with health awareness in their native language.
 * **Economic Viability:** Integrates local pharmacies and grassroots workers into a unified digital ecosystem.
+  
+<div align="center">
+<img width="606" height="406" alt="image" src="https://github.com/user-attachments/assets/ed96556b-47d0-43b7-b6a0-45ff95feb258" />
+</div>
 
 ---
 
 <div align="center">
-  <b>Built to Transform Healthcare Delivery</b>
+  <b>Transforming Rural Healthcare, Where Every Village Counts</b>
 </div>
