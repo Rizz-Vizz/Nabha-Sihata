@@ -3,12 +3,12 @@
 # 🏥 Nabha Sihata
 ### *Transforming Rural Healthcare: Where Every Village Counts*
 
-[![Smart India Hackathon](https://img.shields.io/badge/Smart_India_Hackathon-2025-blue.svg)](#)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB.svg?logo=react)](#)
 [![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF.svg?logo=vite)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-Database_&_Auth-3ECF8E.svg?logo=supabase)](#)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-FF6F00.svg)](#)
 
-*Scalable. Inclusive. Ready for Rural India.*
+*Scalable. Inclusive. Ready for Rural Communities.*
 
 </div>
 
@@ -16,46 +16,56 @@
 
 ## 📖 About The Project
 
-**Nabha Sihata** (developed by Team *Swasthya Rakshak*) is a comprehensive mobile and web-based telemedicine platform designed specifically to bridge the healthcare gap in rural India. Built for the **Smart India Hackathon 2025**, our platform seamlessly connects rural patients with certified doctors, offering video and audio consultations, digital prescriptions, and vital follow-up support.
+**Nabha Sihata** is a comprehensive mobile and web-based telemedicine platform designed specifically to bridge the healthcare gap in underserved rural areas. It seamlessly connects patients with certified doctors, offering high-quality video and audio consultations, digital prescriptions, and vital follow-up support.
 
-We recognize that rural healthcare faces unique challenges such as low digital literacy, poor network connectivity, and language barriers. Nabha Sihata is engineered to overcome these hurdles with **offline capabilities, low-data usage, and full multilingual support** (English, Hindi, Punjabi), ensuring that every household has access to quality healthcare.
-
----
-
-## ✨ Key Features
-
-- 🗣️ **AI-Powered Voice Symptom Checker**: A voice-guided, multilingual interface that allows users to easily communicate their symptoms. The AI chatbot provides preliminary assessments and automatically navigates the patient to the recommended specialist.
-- 👨‍👩‍👧‍👦 **Family Portal**: Designed for rural households that may share a single mobile device. Easily add and manage profiles for children, elders, and other family members from one centralized account.
-- 🤰 **Women & Maternal Health**: Specialized tools to track periods and pregnancy with culturally relevant guidance, empowering women with care and safety.
-- 📶 **Offline & Low-Bandwidth Access**: Critical features remain functional even in low-connectivity zones, syncing data seamlessly once the network is restored.
-- 💊 **Health Records & Pharmacy**: Secure digital storage for medical records and prescriptions, along with medication reminders.
-- 🪙 **MedCoins Reward System**: A blockchain-powered loyalty program to drive community engagement and incentivize regular health checkups.
-- 🔔 **Automated Reminders & Alerts**: Timely notifications via Twilio and Firebase for upcoming appointments, medication, and early disease prevention.
+Recognizing that rural healthcare faces unique challenges such as low digital literacy, poor network connectivity, and language barriers, Nabha Sihata is engineered to overcome these hurdles. With **offline capabilities, low-data usage, and full multilingual support** (English, Hindi, Punjabi), we ensure that every household has uninterrupted access to quality healthcare.
 
 ---
 
-## 🛠️ Technical Approach & Stack
+## ✨ Features
 
-Our architecture is built to be robust, secure, and scalable to support millions of users across rural regions.
+### 🗣️ AI-Powered Voice Symptom Checker
+A voice-guided, multilingual intelligent interface that allows users to seamlessly describe their symptoms in their native language. Our AI chatbot provides preliminary assessments and automatically navigates the patient to the most relevant specialist.
 
-### **Core Technologies**
-- **Frontend (Web):** React.js, Vite, Tailwind CSS
-- **Frontend (Mobile):** React Native
-- **Backend:** Node.js, Express.js, Python (AI/ML)
-- **Database & Auth:** Supabase (PostgreSQL), SQLite (Offline Caching)
+### 👨‍👩‍👧‍👦 Family Management Portal
+Designed for households that share a single mobile device. The family portal enables users to easily add, manage, and book appointments for children, elders, and other family members from one centralized and intuitive dashboard.
 
-### **Enabling Technologies**
-- **AI & Machine Learning:** TensorFlow, Python (Predictive insights, symptom checking)
+### 📶 Offline & Low-Bandwidth Mode
+Critical features remain completely functional even in low-connectivity zones or offline environments. Data syncs seamlessly in the background the moment network connectivity is restored.
+
+### 🤰 Women & Maternal Health Hub
+Specialized tools focusing on women's health. Features include comprehensive period tracking, pregnancy care guidance, and culturally relevant health alerts that empower women with safety and care.
+
+### 💊 Digital Health Records & Pharmacy
+Secure, centralized digital storage for all medical records and digital prescriptions. The platform also includes an integrated pharmacy module and automated medication reminders to ensure consistent care.
+
+### 🪙 MedCoins Reward System
+A unique, blockchain-inspired loyalty program to drive community engagement. Users earn MedCoins for regular health checkups and healthy behaviors, which can be redeemed for consultations and lab tests.
+
+### 🔔 Automated Alerts & Community Awareness
+Timely SMS and push notifications for upcoming appointments, medication schedules, and localized community awareness messages for early disease prevention.
+
+---
+
+## 🛠️ Technical Stack
+
+Our architecture is built to be robust, secure, and scalable to support millions of users.
+
+- **Frontend:** React.js, Vite, Tailwind CSS (Web) & React Native (Mobile)
+- **Backend:** Node.js, Express.js
+- **Database & Authentication:** Supabase (PostgreSQL)
+- **Offline Caching:** SQLite, Service Workers
+- **AI & Machine Learning:** TensorFlow, Python (Predictive insights & NLP)
 - **Communications:** WebRTC (High-quality Video/Audio consultations)
 - **Notifications:** Firebase Cloud Messaging, Twilio
-- **Security:** JWT, HTTPS ensuring complete data privacy
-- **Deployment & Scaling:** Docker, Kubernetes, AWS/GCP
+- **Security:** JWT Authentication, HTTPS encryption
+- **Deployment:** Docker, Kubernetes, AWS/GCP
 
 ---
 
 ## 🚀 Getting Started
 
-Follow these steps to set up the project locally on your machine.
+Follow these steps to set up the project locally on your machine for development and testing.
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) (v18+ recommended) and `npm` installed.
@@ -94,14 +104,14 @@ npm run build
 
 ---
 
-## 🌍 Impact and Benefits
+## 🌍 Impact
 
-* **For the Commoner:** Drastically reduces travel costs and waiting times. Early diagnosis reduces the risk of serious illnesses and empowers families with health awareness in their native language.
-* **Economic Viability:** Prevents wage loss due to long medical travels and integrates local pharmacies into the digital ecosystem.
-* **Technological Edge:** The AI symptom checker and voice navigation guide act as a neighborhood doctor, seamlessly integrating into the daily lives of villagers.
+* **Accessibility:** Drastically reduces travel costs and waiting times, preventing wage loss due to long medical travels.
+* **Early Diagnosis:** Proactive healthcare tools reduce the risk of serious illnesses and empower families with health awareness in their native language.
+* **Economic Viability:** Integrates local pharmacies and grassroots workers into a unified digital ecosystem.
 
 ---
 
 <div align="center">
-  <b>Built with ❤️ for the Smart India Hackathon 2025 by Team Swasthya Rakshak</b>
+  <b>Built to Transform Healthcare Delivery</b>
 </div>
