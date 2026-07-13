@@ -3,10 +3,15 @@
 # 🏥 Nabha Sihata
 ### *Transforming Rural Healthcare: Where Every Village Counts*
 
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB.svg?logo=react)](#)
-[![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF.svg?logo=vite)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-Database_&_Auth-3ECF8E.svg?logo=supabase)](#)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-FF6F00.svg)](#)
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Nabha_Sihata-blue?style=for-the-badge&logo=netlify)](https://nabha-sihata.netlify.app/)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-Database_&_Auth-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com)
+[![AI Powered](https://img.shields.io/badge/AI_Powered-FF6F00?style=for-the-badge)](https://nabha-sihata.netlify.app/)
+
+</div>
 
 *Scalable. Inclusive. Ready for Rural Communities.*
 
